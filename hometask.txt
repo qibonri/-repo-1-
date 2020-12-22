@@ -1,0 +1,9 @@
+Ветки master и demo различаются количеством строк в файле human.txt (14 и 15 соответственно) и содержимым 13 и 14 строки.
+
+Merge branch 'buttons' into demo 
+dots
+README added
+Merge branch 'boots' into release
+boots 
+heat added 
+init
